@@ -17,4 +17,5 @@ python app.py
 
 Pre-requisite:
 python 3 framwork
+Flask framework
 PyCharm
